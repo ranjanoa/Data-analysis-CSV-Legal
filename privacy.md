@@ -1,11 +1,11 @@
-# Privacy Policy for Data analysis CSV
+# Privacy Policy for DataEDA
 
 **Last Updated:** April 23, 2026
 
-This Privacy Policy describes how **Data analysis CSV** ("the Application") handles your information. Data analysis CSV is a specialized tool designed for process monitoring and exploratory data analysis of CSV and Excel datasets.
+This Privacy Policy describes how **DataEDA** ("the Application") handles your information. DataEDA is a specialized tool designed for process monitoring and exploratory data analysis of CSV and Excel datasets.
 
 ## 1. Information Collection and Use
-**Data analysis CSV** is built with a focus on local data processing and user privacy.
+**DataEDA** is built with a focus on local data processing and user privacy.
 *   **Personal Data:** The Application does not collect, store, or transmit any personally identifiable information (PII) such as names, email addresses, or contact details.
 *   **Data Files (CSV/XLSX):** Any data files you upload are processed locally on your device. This data is held in-memory for analysis purposes and is not transmitted to any external servers owned by the developer.
 *   **API Keys & Config:** To enable optional AI-powered analysis, the Application allows you to input your own API keys (e.g., OpenAI or Google Gemini). These keys are stored exclusively on your local device (via browser local storage) and are never shared with the developer.
